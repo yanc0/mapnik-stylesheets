@@ -1,3 +1,9 @@
+openstreetmap-mapnik-stylesheet-data (0.2.0) sid; urgency=low
+
+   * Update for Debian packaging
+
+ -- Yann Coleu <y@nn-col.eu>  Mon, 07 Jul 2014 18:30:00 +0000
+	
 openstreetmap-mapnik-stylesheet-data (0.2-r27589~preceise1) precise; urgency=low
 
    * openstreetmap-mapnik-stylesheet-data Update to mapnik 2
